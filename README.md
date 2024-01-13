@@ -1,4 +1,4 @@
-#Tic-tac-Toe (Jogo da velha)
+# Tic-tac-Toe (Jogo da velha)
 
 
 This is a tic-tac-toe game developed in ReactJS during the course https://www.udemy.com/course/react-the-complete-guide-incl-redux/.
